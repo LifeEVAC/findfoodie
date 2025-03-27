@@ -1,1 +1,6 @@
 # requirements.txt
+flask
+firebase-admin
+gunicorn
+requests
+python-dotenv
